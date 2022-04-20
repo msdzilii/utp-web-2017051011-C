@@ -1,8 +1,37 @@
 div{
     font-family:Avenir Next;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 table, th, td, tr{
     border:2px solid black;
+}
+.profile-image img{
+    margin-top: 50px;
+    width: auto;
+    max-width: 50%;
+    max-height: 250px;
+    border-radius: 50%;
+
+}
+body{
+    margin-top: 20px;
+}
+.tales {
+    width: 100%;
   }
+.carousel-inner{
+    width:200%;
+    max-height: 500px;
+}
+.layout-main h2,h3,h5{
+    margin-top: 0;
+    text-align: center;
+}
+
+.layout-main h2 em{
+    font-size: 150px;
+    font-style: normal;
+    line-height: 0;
+    letter-spacing: -2px;
+    text-shadow: 7px -5px 0 #fff;
+}
+
