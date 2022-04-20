@@ -3,6 +3,8 @@ div{
 }
 table, th, td, tr{
     border:2px solid black;
+    color: rgb(255, 255, 255);
+    font-style: normal;
 }
 .profile-image img{
     margin-top: 50px;
@@ -30,12 +32,14 @@ body{
     margin-top: 0;
     text-align: center;
 }
-
 .layout-main h2 em{
     font-size: 150px;
     font-style: normal;
     line-height: 0;
     letter-spacing: -2px;
     text-shadow: 7px -5px 0 #fff;
+}
+.layout-table h2{
+    margin-top: 40px;
 }
 
