@@ -14,6 +14,7 @@ table, th, td, tr{
 }
 body{
     margin-top: 20px;
+    background-image: url("alam1.jpg");
 }
 .tales {
     width: 100%;
